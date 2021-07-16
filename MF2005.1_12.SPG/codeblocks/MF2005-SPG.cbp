@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/MF2005-SPG" prefix_auto="1" extension_auto="1" />
+				<Option output="../bin/mf2005" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gfortran" />
@@ -111,6 +111,9 @@
 			<Option weight="1" />
 		</Unit>
 		<Unit filename="../src/gwf2sfr7.f">
+			<Option weight="2" />
+		</Unit>
+		<Unit filename="../src/gwf2spg7.f">
 			<Option weight="2" />
 		</Unit>
 		<Unit filename="../src/gwf2str7.f">
