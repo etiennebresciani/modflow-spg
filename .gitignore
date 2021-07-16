@@ -1,0 +1,6 @@
+# Build outputs
+MF2005.1_12.SPG/codeblocks/obj/
+MF2005.1_12.SPG/codeblocks/bin/
+
+# Code::Blocks layout files
+*.layout
